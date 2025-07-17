@@ -1,5 +1,5 @@
 app_name = "erpnext-geo"
-app_title = "erpnext-geo"
+app_title = "ERPNext Geo"
 app_publisher = "Sandeep"
 app_description = "erpnext-geo"
 app_email = "sandeep@snithik.com"
@@ -27,7 +27,8 @@ app_license = "mit"
 # include js, css files in header of desk.html
 # app_include_css = "/assets/snithik/css/snithik.css"
 # app_include_js = "/assets/snithik/js/snithik.js"
-app_include_js = "/assets/snithik/js/geo_tracking.js"
+#app_include_js = "/assets/snithik/js/geo_tracking.js"
+app_include_js = "/assets/erpnext-geo/js/geo_tracking.js"
 # include js, css files in header of web template
 # web_include_css = "/assets/snithik/css/snithik.css"
 # web_include_js = "/assets/snithik/js/snithik.js"
