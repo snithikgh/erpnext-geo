@@ -1,7 +1,7 @@
-app_name = "erpnext-geo"
+app_name = "erpnext_geo"
 app_title = "ERPNext Geo"
 app_publisher = "Sandeep"
-app_description = "erpnext-geo"
+app_description = "erpnext_geo"
 app_email = "sandeep@snithik.com"
 app_license = "mit"
 
